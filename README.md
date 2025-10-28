@@ -1,8 +1,8 @@
 # calibre_biblioteca
 Biblioteca de libros de informática
 
-Descargar la biblioteca:
-
+1) Descargar la biblioteca:
+https://github.com/hombresigma/calibre_biblioteca.git
 
 2) Instalar la biblioteca:
 
@@ -15,4 +15,6 @@ a) Debian 12:
  calibre --version
  calibre
 
+3) Desde la ruta de la carpeta descargada abrir la biblioteca llamada
+   biblioteca_informatica
  
