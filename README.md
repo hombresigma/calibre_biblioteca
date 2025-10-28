@@ -16,5 +16,5 @@ a) Debian 12:
  calibre
 
 3) Desde la ruta de la carpeta descargada abrir la biblioteca llamada
-   biblioteca_informatica
+   calibre_biblioteca
  
